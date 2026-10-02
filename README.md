@@ -1,16 +1,37 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**ElmejanebAbdal/ElmejanebAbdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi chiamo El Mejaneb Abdalhamid e sono etero.
+
+## ❤️ Le mie passioni
+
+- giocare a calcio
+- uscire con gli amici
+- ascoltare musica
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- sono a conoscenza con i flowchart
+- Ma anche i siti https
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+Come socializzare di più
+
+## 🔍 Cosa mi piacerebbe imparare
+
+Mi piacerrebbe imparare a suonare uno strumento
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+Creare un gioco intrattenente e che sia continuativo
+
+## 🎯 Guardando al futuro
+
+Spero di trovare la pace interna.
